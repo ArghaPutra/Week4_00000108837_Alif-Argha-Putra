@@ -1,0 +1,38 @@
+[
+  {
+    "id": "1",
+    "name": "Alpat",
+    "email": "alpat@example.com",
+    "photo_url": "alpat.jpg"
+  },
+  {
+    "id": "2",
+    "name": "Hanif",
+    "email": "hanif@example.com",
+    "photo_url": "hanif.jpg"
+  },
+  {
+    "id": "3",
+    "name": "Isan",
+    "email": "isan@example.com",
+    "photo_url": "isan.jpg"
+  },
+  {
+    "id": "4",
+    "name": "Pais",
+    "email": "pais@example.com",
+    "photo_url": "pais.jpg"
+  },
+  {
+    "id": "5",
+    "name": "PP",
+    "email": "pp@example.com",
+    "photo_url": "pp.jpg"
+  },
+  {
+    "id": "6",
+    "name": "Theo",
+    "email": "theo@example.com",
+    "photo_url": "theo.jpg"
+  }
+]
