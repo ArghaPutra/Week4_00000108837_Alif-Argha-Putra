@@ -3,8 +3,9 @@ import { StyleSheet } from "react-native";
 const styles = StyleSheet.create({
   container: {
     alignItems: "center",
-    paddingTop: 10,
+    paddingVertical: 10,
   },
+
   card: {
     width: 325,
     marginVertical: 6,
